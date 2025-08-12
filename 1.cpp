@@ -6,7 +6,7 @@ public:
     char author[200];
     char title[200];
     int year;
-};
+};sas
 
 int main() {
     int count;
